@@ -1,0 +1,6 @@
+echo "# The-fallout-entropy-archives" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/BadassBo/The-fallout-entropy-archives.git
+git push -u origin master
